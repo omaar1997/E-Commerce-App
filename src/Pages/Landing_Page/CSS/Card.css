@@ -1,0 +1,23 @@
+.Card_Title {
+    font-family: 'poppins';
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    text-align: left;
+    max-width: 70%;
+    color: rgba(34, 50, 99, 1);
+}
+
+.Card:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+/* .CardImg{
+    background-image: url('../../../Images/BagImageBefore.png');
+}
+
+.CardImg:hover {
+    background-image: url('../../../Images/BagImageAfter.png');
+} */
